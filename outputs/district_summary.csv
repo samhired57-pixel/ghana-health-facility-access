@@ -1,0 +1,261 @@
+district,region,population_2020,n_facilities,facilities_per_10k,pop_beyond_10km,pct_beyond_10km
+Suaman,Western North,27138,0,0.0,27138,100.0
+Sissala East,Upper West,91809,0,0.0,91809,100.0
+Zabzugu,Northern,117141,0,0.0,117141,100.0
+East Gonja,Savannah,43590,0,0.0,43590,100.0
+North Gonja,Savannah,48126,0,0.0,48126,100.0
+Bunkpurugu Nakpanduri,North East,129371,0,0.0,129371,100.0
+Sene West,Bono East,85905,0,0.0,85905,100.0
+Adansi South,Ashanti,67885,0,0.0,67885,100.0
+Asikuma-Odoben-Brakwa,Central,139750,0,0.0,139010,99.47
+Assin North,Central,131974,0,0.0,131181,99.4
+Assin Central,Central,74204,0,0.0,73058,98.46
+Sene East,Bono East,89233,0,0.0,87693,98.27
+Assin South,Central,148411,0,0.0,145695,98.17
+Sefwi-Akontombra,Western North,101141,0,0.0,98715,97.6
+Sissala West,Upper West,38691,0,0.0,37583,97.14
+Sekyere Afram Plains North,Ashanti,65537,0,0.0,63529,96.94
+Adansi Asokwa,Ashanti,58266,0,0.0,56403,96.8
+Fanteakwa North,Eastern,86006,0,0.0,81906,95.23
+Dormaa,Bono,159914,0,0.0,149981,93.79
+Kwahu Afram Plains South,Eastern,206513,1,0.05,181928,88.1
+Amansie West,Ashanti,94389,0,0.0,82764,87.68
+Akatsi North,Volta,43013,0,0.0,37669,87.58
+Yunyoo-Nasuan,North East,50584,0,0.0,44239,87.46
+Asante-Akim South,Ashanti,142005,0,0.0,122724,86.42
+Lambussie-Karni,Upper West,80639,0,0.0,69663,86.39
+Sefwi-Wiawso,Western North,162993,0,0.0,139340,85.49
+Akyemansa,Eastern,127605,0,0.0,108252,84.83
+Bole,Savannah,102942,1,0.1,86099,83.64
+Builsa North,Upper East,57134,1,0.18,47381,82.93
+Sawla-Tuna-Kalba,Savannah,104523,1,0.1,84524,80.87
+Tatale Sanguli,Northern,74851,1,0.13,59297,79.22
+Pru East,Bono East,103772,1,0.1,81550,78.59
+Ejura-Sekyedumase,Ashanti,91535,1,0.11,71815,78.46
+Banda,Bono,48464,1,0.21,37914,78.23
+Central Gonja,Savannah,101835,2,0.2,78628,77.21
+Wassa East,Western,82707,2,0.24,63614,76.91
+Pusiga,Upper East,55763,0,0.0,41798,74.96
+Mpohor,Western,40881,0,0.0,30553,74.74
+Mamprugu Moagduri,North East,68248,0,0.0,50624,74.18
+Amansie Central,Ashanti,90758,0,0.0,66698,73.49
+North East Gonja,Savannah,201677,2,0.1,147301,73.04
+Juaboso,Western North,77188,1,0.13,55535,71.95
+Bia East,Western North,57016,1,0.18,40630,71.26
+Sekyere Central,Ashanti,78694,3,0.38,55893,71.03
+Adansi North,Ashanti,62080,0,0.0,44067,70.99
+Mion,Northern,161779,2,0.12,114667,70.88
+Pru West,Bono East,70466,2,0.28,48156,68.34
+Nkoranza North,Bono East,91646,0,0.0,62542,68.24
+Wa East,Upper West,126366,6,0.47,85825,67.92
+Adansi Akrofuom,Ashanti,86054,0,0.0,57886,67.27
+Bodi,Western North,48857,1,0.2,31515,64.51
+Gushegu,Northern,138956,2,0.14,88632,63.78
+Karaga,Northern,142964,4,0.28,90846,63.54
+Asante-Akim North,Ashanti,96240,1,0.1,61023,63.41
+Nanumba South,Northern,221590,1,0.05,140208,63.27
+Birim North,Eastern,121343,3,0.25,76166,62.77
+Dormaa East,Bono,80251,1,0.12,50356,62.75
+Binduri,Upper East,77467,0,0.0,48199,62.22
+Wassa Amenfi Central,Western,91420,3,0.33,56755,62.08
+Atebubu-Amantin,Bono East,164028,4,0.24,99635,60.74
+Nanumba North,Northern,161060,6,0.37,97532,60.56
+Saboba,Northern,82282,7,0.85,49209,59.81
+Krachi East,Oti,164937,3,0.18,96087,58.26
+Ahafo-Ano South West,Ashanti,38951,0,0.0,22644,58.13
+Bosome Freho,Ashanti,62471,2,0.32,36138,57.85
+Nkoranza South,Bono East,130188,1,0.08,75066,57.66
+Kintampo North,Bono East,119677,7,0.58,68977,57.64
+Asene-Manso-Akroso,Eastern,104708,0,0.0,59542,56.87
+Nzema East,Western,57700,1,0.17,32634,56.56
+Kwahu East,Eastern,73955,1,0.14,41250,55.78
+Kasena Nankana West,Upper East,97781,4,0.41,54485,55.72
+Ahafo-Ano South East,Ashanti,70560,2,0.28,37747,53.5
+Bawku West,Upper East,109823,1,0.09,57662,52.5
+Ayensuano,Eastern,90020,0,0.0,46932,52.13
+Tain,Bono,83754,3,0.36,43137,51.5
+Abura-Asebu-Kwamankese,Central,151025,0,0.0,75738,50.15
+West Gonja,Savannah,66763,16,2.4,33380,50.0
+Bia West,Western North,76265,5,0.66,37878,49.67
+Daffiama-Bussie-Issa,Upper West,48769,2,0.41,24213,49.65
+Atwima-Mponua,Ashanti,156318,2,0.13,76597,49.0
+Tempane,Upper East,71770,2,0.28,35120,48.93
+Twifo-Hemang-Lower Denkyira,Central,47972,2,0.42,23372,48.72
+Tolon,Northern,51997,2,0.38,24861,47.81
+Wa West,Upper West,83755,8,0.96,39388,47.03
+West Mamprusi,North East,180349,9,0.5,84177,46.67
+Amansie South,Ashanti,76253,1,0.13,35233,46.21
+Upper Denkyira West,Central,80391,3,0.37,36824,45.81
+Achiase,Eastern,115009,1,0.09,51761,45.01
+Kwaebibirem,Eastern,119502,2,0.17,53746,44.97
+Agotime Ziope,Volta,27998,2,0.71,12441,44.44
+Garu,Upper East,102192,1,0.1,44574,43.62
+Afigya-Kwabre North,Ashanti,104936,0,0.0,45414,43.28
+Lawra,Upper West,64052,1,0.16,27020,42.18
+Wenchi,Bono,100088,2,0.2,41627,41.59
+Kwahu Afram Plains North,Eastern,144828,6,0.41,58969,40.72
+East Mamprusi,North East,163048,9,0.55,65822,40.37
+Aowin,Western North,126453,24,1.9,50977,40.31
+Chereponi,North East,65843,6,0.91,26059,39.58
+Builsa South,Upper East,58614,5,0.85,22521,38.42
+Wassa Amenfi West,Western,68196,6,0.88,25467,37.34
+Kwahu South,Eastern,86301,3,0.35,32016,37.1
+Offinso,Ashanti,80299,3,0.37,29351,36.55
+Yendi,Northern,143223,4,0.28,52266,36.49
+Ahafo-Ano North,Ashanti,128162,2,0.16,46771,36.49
+Dormaa West,Bono,52473,1,0.19,18976,36.16
+Jirapa,Upper West,115645,2,0.17,40256,34.81
+Kumbungu,Northern,45263,1,0.22,15574,34.41
+Sekyere South,Ashanti,200495,2,0.1,66966,33.4
+Nkwanta North,Oti,93727,6,0.64,30825,32.89
+Sunyani West,Bono,125019,5,0.4,40923,32.73
+Agona West,Central,155430,6,0.39,50700,32.62
+Upper Denkyira East,Central,86010,2,0.23,27917,32.46
+Nanton,Northern,58523,1,0.17,18649,31.87
+Adaklu,Volta,53921,3,0.56,17029,31.58
+Upper Manya,Eastern,77683,1,0.13,24217,31.17
+Wassa Amenfi East,Western,97446,4,0.41,30137,30.93
+Ada East,Greater Accra,98802,2,0.2,30361,30.73
+West Akim,Eastern,136606,1,0.07,41936,30.7
+Nadowli-Kaleo,Upper West,59450,4,0.67,18122,30.48
+Twifo-Atti-Morkwa,Central,77024,23,2.99,23471,30.47
+Biakoye,Oti,100853,5,0.5,29813,29.56
+Birim South,Eastern,105269,0,0.0,29131,27.67
+Tano North,Ahafo,119065,1,0.08,31397,26.37
+Mampong,Ashanti,99427,6,0.6,26006,26.16
+Nkwanta South,Oti,146611,13,0.89,38177,26.04
+Berekum East,Bono,110010,4,0.36,28247,25.68
+Kpandai,Northern,93345,4,0.43,23909,25.61
+Kasena Nankana East,Upper East,116815,8,0.68,29759,25.47
+Jomoro,Western,199697,22,1.1,49415,24.74
+Talensi,Upper East,87579,6,0.69,21372,24.4
+Asutifi North,Ahafo,77340,5,0.65,18448,23.85
+Berekum West,Bono,69349,1,0.14,16386,23.63
+Sekyere East,Ashanti,33679,7,2.08,7954,23.62
+Prestea-Huni Valley,Western,176878,6,0.34,41244,23.32
+Nabdam,Upper East,30479,0,0.0,6900,22.64
+Bongo,Upper East,92315,1,0.11,20094,21.77
+Kintampo South,Bono East,91707,5,0.55,19945,21.75
+Ellembelle,Western,93532,7,0.75,20270,21.67
+Fanteakwa South,Eastern,48936,4,0.82,10432,21.32
+Nandom,Upper West,55290,3,0.54,11743,21.24
+Asante-Akim Central,Ashanti,57254,5,0.87,11449,20.0
+Denkyembour,Eastern,92220,1,0.11,17136,18.58
+Akatsi South,Volta,128994,4,0.31,22861,17.72
+Jaman North,Bono,108261,3,0.28,19186,17.72
+Asunafo North,Ahafo,149643,26,1.74,26059,17.41
+Savelugu,Northern,156225,6,0.38,26819,17.17
+Ekumfi,Central,98868,1,0.1,16837,17.03
+Akwapem South,Eastern,59227,0,0.0,9783,16.52
+Offinso North,Ashanti,53416,5,0.94,8550,16.01
+Krachi Nchumuru,Oti,110171,7,0.64,17638,16.01
+North Tongu,Volta,93724,4,0.43,14767,15.76
+Juaben,Ashanti,19360,0,0.0,2978,15.38
+Shai Osudoku,Greater Accra,61168,6,0.98,9271,15.16
+Jaman South,Bono,100518,6,0.6,15056,14.98
+Ajumako-Enyan-Essiam,Central,207292,2,0.1,30391,14.66
+Agona East,Central,116239,1,0.09,16980,14.61
+Bosomtwe,Ashanti,137424,1,0.07,19880,14.47
+Bawku,Upper East,79920,2,0.25,11536,14.43
+Sekyere Kumawu,Ashanti,43954,1,0.23,6272,14.27
+Tarkwa Nsuaem,Western,90472,45,4.97,12827,14.18
+Central Tongu,Volta,75435,2,0.27,10477,13.89
+Atiwa West,Eastern,106678,3,0.28,14764,13.84
+Ejisu,Ashanti,174599,6,0.34,23747,13.6
+Krachi West,Oti,62496,4,0.64,8440,13.5
+Bekwai,Ashanti,168070,3,0.18,21600,12.85
+Atwima-Nwabiagya North,Ashanti,36191,0,0.0,4617,12.76
+Ahanta West,Western,130144,4,0.31,15860,12.19
+Asuogyaman,Eastern,123812,4,0.32,14461,11.68
+Asutifi South,Ahafo,56062,4,0.71,6524,11.64
+Gomoa West,Central,98276,3,0.31,10611,10.8
+South Tongu,Volta,120946,10,0.83,11624,9.61
+Mfantseman,Central,156757,14,0.89,13981,8.92
+Upper West Akim,Eastern,115956,4,0.34,10163,8.76
+Ketu North,Volta,115302,2,0.17,9907,8.59
+Komenda-Edina-Eguafo-Abirem-,Central,184335,5,0.27,14846,8.05
+Yilo-Krobo,Eastern,88351,13,1.47,6966,7.88
+Asunafo South,Ahafo,126874,7,0.55,9559,7.53
+Akwapem North,Eastern,107180,1,0.09,8020,7.48
+Techiman,Bono East,165992,15,0.9,12050,7.26
+Tano South,Ahafo,73528,5,0.68,5135,6.98
+Bibiani-Anhwiaso-Bekwai-,Western North,148491,16,1.08,10149,6.83
+Tamale,Northern,261979,51,1.95,17696,6.75
+Techiman North,Bono East,74481,4,0.54,4831,6.49
+Atiwa East,Eastern,82163,4,0.49,5311,6.46
+Suhum,Eastern,83991,1,0.12,5236,6.23
+Kadjebi,Oti,60768,8,1.32,3728,6.14
+Ningo-Prampram,Greater Accra,98656,19,1.93,5730,5.81
+Ho West,Volta,148284,13,0.88,8467,5.71
+Atwima-Kwanwoma,Ashanti,138685,4,0.29,5722,4.13
+Ada West,Greater Accra,86251,2,0.23,3352,3.89
+South Dayi,Volta,56738,6,1.06,1881,3.32
+Cape Coast,Central,250473,63,2.52,6342,2.53
+Hohoe,Volta,252733,5,0.2,6321,2.5
+Bolgatanga,Upper East,104947,15,1.43,2625,2.5
+Awutu Senya West,Central,114761,2,0.17,2397,2.09
+Ho Municipal,Volta,256694,26,1.01,4820,1.88
+Abuakwa South,Eastern,120809,5,0.41,1971,1.63
+Afadzato South,Volta,184183,5,0.27,2987,1.62
+Anloga,Volta,76921,3,0.39,944,1.23
+Jasikan,Oti,46057,3,0.65,405,0.88
+Keta Municipal,Volta,91608,8,0.87,728,0.8
+Kwahu West,Eastern,96438,11,1.14,687,0.71
+Okere,Eastern,82527,4,0.48,374,0.45
+Sunyani,Bono,117410,28,2.38,404,0.34
+Lower Manya-Krobo,Eastern,86838,7,0.81,290,0.33
+Afigya-Kwabre South,Ashanti,173455,9,0.52,79,0.05
+Atwima-Nwabiagya South,Ashanti,158638,16,1.01,72,0.05
+Asokore-Mampong,Ashanti,299072,11,0.37,0,0.0
+North Dayi,Volta,53959,6,1.11,0,0.0
+Shama,Western,251047,4,0.16,0,0.0
+Ketu South,Volta,165693,17,1.03,0,0.0
+Kpando,Volta,64830,3,0.46,0,0.0
+Abuakwa North,Eastern,93002,5,0.54,0,0.0
+Gomoa East,Central,364627,16,0.44,0,0.0
+Effutu,Central,97429,18,1.85,0,0.0
+Gomoa Central,Central,43716,1,0.23,0,0.0
+Awutu Senya East,Central,128722,9,0.7,0,0.0
+Effia Kwesimintsim,Western,326735,16,0.49,2,0.0
+Sekondi Takoradi,Western,513148,30,0.58,0,0.0
+Asokwa,Ashanti,419586,1,0.02,0,0.0
+Kumasi,Ashanti,474873,36,0.76,0,0.0
+New Juaben South,Eastern,135183,34,2.52,0,0.0
+Nsawam Adoagyiri,Eastern,67111,2,0.3,0,0.0
+Ablekuma North,Greater Accra,528494,55,1.04,0,0.0
+Adenta,Greater Accra,105588,49,4.64,0,0.0
+Ashaiman,Greater Accra,112005,22,1.96,0,0.0
+Ablekuma Central,Greater Accra,282228,23,0.81,0,0.0
+Birim Central,Eastern,66345,3,0.45,0,0.0
+Sagnerigu,Northern,209110,32,1.53,0,0.0
+Tema,Greater Accra,180537,28,1.55,0,0.0
+Okaikwei North,Greater Accra,253723,74,2.92,0,0.0
+Weija Gbawe,Greater Accra,483902,43,0.89,0,0.0
+Tema West,Greater Accra,181633,57,3.14,0,0.0
+Ga East,Greater Accra,233010,77,3.3,0,0.0
+Ga North,Greater Accra,205561,26,1.26,0,0.0
+Ayawaso West,Greater Accra,365102,67,1.84,0,0.0
+Ga South,Greater Accra,83280,0,0.0,0,0.0
+Ga West,Greater Accra,173305,11,0.63,0,0.0
+Kpone-Katamanso,Greater Accra,278852,26,0.93,0,0.0
+Korle-Klottey,Greater Accra,190066,51,2.68,0,0.0
+Krowor,Greater Accra,133982,53,3.96,0,0.0
+La-Dade-Kotopon,Greater Accra,463835,50,1.08,0,0.0
+La-Nkwantanang-Madina,Greater Accra,150699,75,4.98,0,0.0
+Ledzokuku,Greater Accra,217935,56,2.57,0,0.0
+Ayawaso East,Greater Accra,107676,20,1.86,0,0.0
+Ayawaso North,Greater Accra,91357,19,2.08,0,0.0
+Ayawaso Central,Greater Accra,37652,19,5.05,0,0.0
+Ga Central,Greater Accra,127299,7,0.55,0,0.0
+Accra,Greater Accra,108563,26,2.39,0,0.0
+Ablekuma West,Greater Accra,191243,18,0.94,0,0.0
+New Juaben North,Eastern,103401,2,0.19,0,0.0
+Obuasi,Ashanti,118343,3,0.25,0,0.0
+Suame,Ashanti,393877,17,0.43,0,0.0
+Obuasi East,Ashanti,29429,0,0.0,0,0.0
+Oforikrom,Ashanti,419928,38,0.9,0,0.0
+Old Tafo,Ashanti,414815,6,0.14,0,0.0
+Kwadaso,Ashanti,986987,23,0.23,0,0.0
+Kwabre East,Ashanti,56184,5,0.89,0,0.0
+Bolga East,Upper East,33421,8,2.39,0,0.0
+Wa Municipal,Upper West,88178,25,2.84,3,0.0

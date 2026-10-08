@@ -1,0 +1,14 @@
+{
+  "facilities_file": "facilities.geojson",
+  "total_population": 33039564,
+  "n_facilities": 2284,
+  "pct_within_5km": 56.59,
+  "pct_within_10km": 74.59,
+  "pop_beyond_10km": 8396914,
+  "pop_weighted_mean_km": 7.02,
+  "pop_weighted_median_km": 3.61,
+  "pop_weighted_p90_km": 18.45,
+  "grid_resolution_m": 92.8,
+  "grid_downsampled_2x": false,
+  "distance_metric": "Euclidean (straight-line); screening metric, not travel time"
+}

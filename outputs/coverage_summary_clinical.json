@@ -1,0 +1,14 @@
+{
+  "facilities_file": "facilities_clinical.geojson",
+  "total_population": 33039564,
+  "n_facilities": 1099,
+  "pct_within_5km": 53.86,
+  "pct_within_10km": 72.59,
+  "pop_beyond_10km": 9055860,
+  "pop_weighted_mean_km": 7.6,
+  "pop_weighted_median_km": 4.19,
+  "pop_weighted_p90_km": 19.47,
+  "grid_resolution_m": 92.8,
+  "grid_downsampled_2x": false,
+  "distance_metric": "Euclidean (straight-line); screening metric, not travel time"
+}

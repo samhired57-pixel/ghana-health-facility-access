@@ -1,0 +1,9 @@
+geopandas>=1.0
+rasterio>=1.4
+numpy>=1.26
+pandas>=2.0
+scipy>=1.12
+shapely>=2.0
+matplotlib>=3.8
+requests>=2.31
+pyosmium>=3.4

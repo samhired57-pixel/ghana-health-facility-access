@@ -1,0 +1,156 @@
+{
+  "national_all_facilities": {
+    "facilities_file": "facilities.geojson",
+    "total_population": 33039564,
+    "n_facilities": 2284,
+    "pct_within_5km": 56.59,
+    "pct_within_10km": 74.59,
+    "pop_beyond_10km": 8396914,
+    "pop_weighted_mean_km": 7.02,
+    "pop_weighted_median_km": 3.61,
+    "pop_weighted_p90_km": 18.45,
+    "grid_resolution_m": 92.8,
+    "grid_downsampled_2x": false,
+    "distance_metric": "Euclidean (straight-line); screening metric, not travel time"
+  },
+  "national_clinical_only": {
+    "facilities_file": "facilities_clinical.geojson",
+    "total_population": 33039564,
+    "n_facilities": 1099,
+    "pct_within_5km": 53.86,
+    "pct_within_10km": 72.59,
+    "pop_beyond_10km": 9055860,
+    "pop_weighted_mean_km": 7.6,
+    "pop_weighted_median_km": 4.19,
+    "pop_weighted_p90_km": 19.47,
+    "grid_resolution_m": 92.8,
+    "grid_downsampled_2x": false,
+    "distance_metric": "Euclidean (straight-line); screening metric, not travel time"
+  },
+  "n_districts": 260,
+  "most_underserved_districts": [
+    {
+      "district": "Suaman",
+      "region": "Western North",
+      "population_2020": 27138,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "Sissala East",
+      "region": "Upper West",
+      "population_2020": 91809,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "Zabzugu",
+      "region": "Northern",
+      "population_2020": 117141,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "East Gonja",
+      "region": "Savannah",
+      "population_2020": 43590,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "North Gonja",
+      "region": "Savannah",
+      "population_2020": 48126,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "Bunkpurugu Nakpanduri",
+      "region": "North East",
+      "population_2020": 129371,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "Sene West",
+      "region": "Bono East",
+      "population_2020": 85905,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "Adansi South",
+      "region": "Ashanti",
+      "population_2020": 67885,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 100.0
+    },
+    {
+      "district": "Asikuma-Odoben-Brakwa",
+      "region": "Central",
+      "population_2020": 139750,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 99.47
+    },
+    {
+      "district": "Assin North",
+      "region": "Central",
+      "population_2020": 131974,
+      "n_facilities": 0,
+      "facilities_per_10k": 0.0,
+      "pct_beyond_10km": 99.4
+    }
+  ],
+  "best_served_districts": [
+    {
+      "district": "Old Tafo",
+      "region": "Ashanti",
+      "population_2020": 414815,
+      "n_facilities": 6,
+      "facilities_per_10k": 0.14,
+      "pct_beyond_10km": 0.0
+    },
+    {
+      "district": "Kwadaso",
+      "region": "Ashanti",
+      "population_2020": 986987,
+      "n_facilities": 23,
+      "facilities_per_10k": 0.23,
+      "pct_beyond_10km": 0.0
+    },
+    {
+      "district": "Kwabre East",
+      "region": "Ashanti",
+      "population_2020": 56184,
+      "n_facilities": 5,
+      "facilities_per_10k": 0.89,
+      "pct_beyond_10km": 0.0
+    },
+    {
+      "district": "Bolga East",
+      "region": "Upper East",
+      "population_2020": 33421,
+      "n_facilities": 8,
+      "facilities_per_10k": 2.39,
+      "pct_beyond_10km": 0.0
+    },
+    {
+      "district": "Wa Municipal",
+      "region": "Upper West",
+      "population_2020": 88178,
+      "n_facilities": 25,
+      "facilities_per_10k": 2.84,
+      "pct_beyond_10km": 0.0
+    }
+  ],
+  "method": "Euclidean distance from each WorldPop 100 m cell to the nearest healthsites.io facility point; population-weighted. Screening metric, not a travel-time model. 'clinical_only' excludes pharmacies."
+}
